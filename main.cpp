@@ -8,10 +8,7 @@
 #include <opencv2/video.hpp>
 using namespace cv;
 using namespace std;
-//const char* params
-//= "{ help h         |           | Print usage }"
-//"{ input          | highway.mp4 | Path to a video or a sequence of image }"
-//"{ algo           | MOG2      | Background subtraction method (KNN, MOG2) }";
+
 
 
 
